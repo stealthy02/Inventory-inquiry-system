@@ -1,5 +1,6 @@
 # Inventory-inquiry-system
 这是一个简单查阅库存的系统,通过输入采购订单信息和销售订单信息确定库存
+保存路径根据需求自行修改
 需要安装mysql数据库并执行以下代码
 ```sql
 CREATE DATABASE `billing_details`
